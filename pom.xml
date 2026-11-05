@@ -8,9 +8,9 @@
     <version>${revision}</version>
     <packaging>jar</packaging>
 
-    <name>Liquibase extension for ClickHouse. Fork of: https://github.com/beekpr/beekeeper-liquibase-clickhouse</name>
+    <name>Liquibase extension for ClickHouse. Fork of: https://github.com/lumapps/beekeeper-liquibase-clickhouse</name>
     <description>A Liquibase extension for the ClickHouse database. Fork of: https://github.com/mediarithmics/liquibase-clickhouse</description>
-    <url>https://github.com/beekpr/beekeeper-liquibase-clickhouse</url>
+    <url>https://github.com/lumapps/beekeeper-liquibase-clickhouse</url>
 
 
     <licenses>
